@@ -5,8 +5,8 @@
 
 int main(int argc, char *argv[]) {
 	
-	int c=3;
-	printf("%d", c); 
+	int c=3;    // 設變數 
+	printf("%d", c); //輸出 
 	
 	return 0;
 }
